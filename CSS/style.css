@@ -1,0 +1,249 @@
+body{
+    background: rgb(164, 164, 164);
+    width: 1430px;
+    
+}
+
+h1{ 
+    color: rgb(71, 34, 67);
+    position: absolute;
+    top: 100px; 
+    z-index: 10;
+    left: 500px;
+    text-align: center;
+}
+
+ #mainimage{
+    width: 100%;
+    height: auto;
+    position: absolute;
+    margin-top: -50px;
+    margin-left: -8px;
+    z-index: -10;
+}
+
+
+p{
+    color: rgb(0, 0, 0);
+    background:rgba(201, 201, 201, 0);
+    font-weight: normal;
+    text-transform: none; /* uppercase, lowercase, calitalize */
+    font-style: normal;
+    line-height: 20px;
+}
+
+.everything {
+    
+    height: 100%;
+    padding:50px;
+}
+
+#maintext{
+    position: absolute;
+    top: 800px;
+    z-index: +10;
+}
+
+.h2{
+    position: relative;
+    font-size: 40px;
+    text-shadow: 5px 5px 6px rgb(61, 50, 82);
+    text-align: center;
+    left: -20px;
+}
+
+.heading{
+    font-size:20px;
+}
+
+.text-bar {
+    display: inline-block;
+    margin-right: 100px;
+}
+
+#bar1{
+    background: rgba(58, 74, 146, 0.877);
+    border-style:dashed;
+    border-color: #fd8f64;
+    border-width: 7px;
+    margin-left: -60px;
+}
+
+#bar2{
+    background: #fd8f64;
+    border-style:double;
+    border-color: rgba(58, 74, 146, 0.877);    
+    border-width: 7px;
+    margin-left: -60px;
+    width: 1430px; 
+}
+
+.box-1{
+    padding: 50px;
+    margin: 50px;
+    height: 380px;
+    width: 260px;
+    position: absolute;
+    background-color: rgb(131, 131, 170); 
+    top: 1750px;
+    left: 75px;
+    z-index: -10;
+    border-radius: 25%;
+    text-align: center;
+}
+
+.box-2{
+    padding: 50px;
+    margin: 50px;
+    height: 380px;
+    width: 260px;
+    position: absolute;
+    background-color: rgb(131, 131, 170); 
+    top: 1750px;
+    left: 500px;
+    z-index: -10;
+    border-radius: 25%;
+    text-align: center;
+}
+
+.box-3{
+    padding: 50px;
+    margin: 50px;
+    height: 380px;
+    width: 260px;
+    position: absolute;
+    background-color: rgb(131, 131, 170); 
+    top: 1750px;
+    left: 925px;
+    z-index: -10;
+    border-radius: 25%;
+    text-align: center;
+}
+
+.box-text{
+    font-size: 20px;
+}
+
+.redirect{
+    font-size: 13px;
+    text-align: center;
+    font-weight: bold;
+    font-kerning:normal;
+    line-height: 11px;
+
+}
+
+.gd2-text{
+    position: absolute;
+    top: 500px;
+    left: 20px;
+    width: 1300px;
+    padding: 5px; 
+}
+
+.gd2{
+    padding: 50px;
+    margin: 50px;
+    height: 360px;
+    width: 1270px;
+    position: absolute;
+    background-color: #ffaf90; 
+    top: 440px;
+    left: -75px;
+    z-index: -10;
+    border-radius: 20%;
+}
+
+
+.topic{
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+    top: 350px;  
+}
+
+.bar2-pos{
+    position: relative;
+    top: 0px;
+    left: 0px; 
+}
+
+.aboutme{
+   position: relative;
+   width: 1300px;
+   padding: 5px;  
+   top: 10px;
+}
+
+#more {
+    display: none;
+}
+
+.aboutme-text{
+    font-size: 35px;
+}
+
+#dots{
+    size: 10px;
+    opacity: 0%;
+}
+
+
+.popart{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size:90px;
+      letter-spacing:0.1em;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: white;
+    text-shadow: 
+                          8px 8px #fd8f64,
+                          20px 20px #3e0577
+                          ;
+  }
+  
+#aboutme-btn{
+    position: relative;
+    left: -70px;
+    top: -80px;
+    display: block;
+    width: 100%;
+    height: 130px;
+    border: none;
+    background-color: transparent;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center; 
+}
+
+.aboutme-main{
+   position: relative;
+   top: 80px;
+   text-align: center;
+}
+
+.courseindex{
+    padding: 50px;
+    margin: 50px;
+    height: 200px;
+    width: 1000px;
+    position: absolute;
+    background-color: #fd8f64; 
+    top: 2290px;
+    left: 120px;
+    z-index: -10;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.courseindextext{
+    position: absolute;
+    top: 100px;
+    left: 90px;
+    width: 900px;
+    padding: 5px; 
+}
