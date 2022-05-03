@@ -1,0 +1,195 @@
+body{
+    background: rgb(164, 164, 164);
+    width: 1430px;
+}
+
+h1{ 
+    position: absolute;
+    font-size: 70px;
+    top: 50px; 
+    z-index: 10;
+    left: 100px;
+    text-align: center;
+    text-shadow: 4px 4px 5px rgba(63, 79, 148, 0.877);
+
+}
+
+.everything {
+    width: 1380px;
+    height: 100%;
+    margin-left:50px;
+    margin-right: -400px;
+    margin-top: -60px;
+}
+
+.box{
+    width: 1300px;
+    height: 3100px;
+    left: -28px;
+    top: 260px;
+    margin: 50px auto;
+    background: rgba(53, 70, 146, 0.877);
+    padding: 30px;
+    text-align: center;
+    font-weight: 900;
+    position:relative;
+}
+
+.aim{
+    position: relative;
+    top: 30px;
+    padding: 30px;
+    left: 0px;
+}
+.mywork{
+   position: relative;
+   top: 0px;
+   padding: 30px;
+   left: 0px;
+   text-align: center; 
+}
+
+.redirect{
+   position: relative;
+    top: -60px;
+    padding: 30px;
+    left: 0px;
+    text-align: center; 
+}
+
+.p5{
+    position: relative;
+    border: none;
+    width: 350px;
+    height: 350px;
+}
+
+.one{
+    position: relative;
+    top: -10px;
+    left: -55px;
+}
+    
+.two{
+    position: relative;
+    top: -10px;
+    left: 0;
+}
+
+.three{
+    position: relative;
+    top: -10px;
+    left: 55;
+}
+
+.four{
+    position: relative;
+    top: 40px;
+    left: -55px;
+}
+
+.five{
+    position: relative;
+    top: 40px;
+    left: 0;
+}
+
+.six{
+   position: relative;
+   top: 40px;
+   left: 55px;
+}
+
+.seven{
+    position: relative;
+    top: 80px;
+    left: -55px;
+ }
+
+ .eight{
+    position: relative;
+    top: 80px;
+    left: 0px;
+ }
+
+ .nine{
+    position: relative;
+    top: 80px;
+    left: 55px;
+ }
+
+ .ten{
+    position: relative;
+    top: 100px;
+    left: -55px;
+ }
+
+ .eleven{
+    position: relative;
+    top: 100px;
+    left: 0px;
+ }
+
+ .twelve{
+    position: relative;
+    top: 100px;
+    left: 55px;
+ }
+
+ 
+ .thirteen{
+    position: relative;
+    top: 130px;
+    left: -55px;
+ }
+
+ .fourteen{
+    position: relative;
+    top: 130px;
+    left: 0px;
+ }
+
+ .fifteen{
+    position: relative;
+    top: 130px;
+    left: 55px;
+ }
+ 
+ .sixteen{
+    position: relative;
+    top: 180px;
+    left: -55px;
+ }
+
+ .seventeen{
+    position: relative;
+    top: 180px;
+    left: 0px;
+ }
+
+ .eighteen{
+    position: relative;
+    top: 180px;
+    left: 55px;
+ }
+ 
+ .nineteen{
+    position: relative;
+    top: 230px;
+    left: -55px;
+ }
+
+ .twenty{
+    position: relative;
+    top: 230px;
+    left: 0px;
+ }
+
+ .twentyone{
+    position: relative;
+    top: 230px;
+    left: 55px;
+ }
+ 
+ 
+

@@ -1,0 +1,117 @@
+body{
+    background: rgb(164, 164, 164);
+    width: 1430px;
+}
+
+h1{ 
+    position: absolute;
+    font-size: 70px;
+    top: 50px; 
+    z-index: 10;
+    left: 100px;
+    text-align: center;
+    text-shadow: 4px 4px 5px rgba(53, 70, 146, 0.877);
+
+}
+
+.everything {
+    width: 1380px;
+    height: 100%;
+    margin-left:50px;
+    margin-right: -400px;
+    margin-top: -60px;
+}
+
+.box{
+    width: 1300px;
+    height: 7650px;
+    left: -10px;
+    top:-600px;
+    margin: 50px auto;
+    background: rgba(58, 74, 146, 0.877);
+    padding: 20px;
+    text-align: center;
+    font-weight: 900;
+    position:relative;
+}
+
+.alltext{
+    position: absolute;
+    top: 800px;
+    z-index: +10;
+}
+
+.aim{
+    position: absolute;
+    top: 50px;
+    padding: 10px;
+}
+
+.idea{
+    position: absolute;
+    top: 120px;
+    padding: 10px;
+}
+
+.draft1{
+    position: relative;
+    top: 175px;  
+    padding: 10px;
+}
+
+.image1{
+    position: relative;
+    left: 0%;
+    top: 200px;
+    width: 600px;
+    height: auto;
+
+}
+.draft2{
+    position: relative;
+    top: 220px;  
+    padding: 10px;
+}
+
+.image2{
+    position: relative;
+}
+
+.page1{
+    position: relative;
+    left: 0%;
+    top: 240px;
+    width: 600px;
+    height: auto;   
+}
+
+.page2{
+    position: relative;
+    left: 0%;
+    top: 240px;
+    width: 600px;
+    height: auto;   
+}
+
+.finaldraft{
+    position: relative;
+    top: 260px;  
+    padding: 10px;
+}
+
+.final1{
+    position: relative;
+    left: 0%;
+    top: 280px;
+    width: 800px;
+    height: auto;   
+}
+.final2{
+    position: relative;
+    left: 0%;
+    top: 245px;
+    width: 800px;
+    height: auto;   
+}
+
+
