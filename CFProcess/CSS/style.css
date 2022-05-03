@@ -1,0 +1,182 @@
+body{
+    background: rgb(164, 164, 164);
+    width: 1380px;
+    
+}
+
+h1{ 
+    position: absolute;
+    font-size: 70px;
+    top: 50px; 
+    z-index: 10;
+    left: 100px;
+    text-align: center;
+    text-shadow: 4px 4px 5px rgba(53, 70, 146, 0.877);
+
+}
+.everything {
+    width: 1380px;
+    height: 100%;
+    margin-left:50px;
+    margin-right: -400px;
+    margin-top: -60px;
+}
+
+.box{
+    width: 1300px;
+    height: 7400px;
+    left: -10px;
+    top:-600px;
+    margin: 50px auto;
+    background: rgba(58, 74, 146, 0.877);
+    padding: 20px;
+    text-align: center;
+    font-weight: 900;
+    position:relative;
+}
+
+.alltext{
+    position: absolute;
+    top: 800px;
+    z-index: +10;
+}
+
+.image1{
+    position: relative;
+    left: 0%;
+    top: 140px;
+    width: 800px;
+    height: auto;
+
+}
+
+.aim{
+    position: absolute;
+    top: 50px;
+}
+
+.draft1{
+    position: relative;
+    top: 135px; 
+}
+
+.feedback1{
+    position: relative;
+    top: 200px; 
+}
+
+.image2{
+    position: relative;
+    left: 0%;
+    top: 220px;
+    width: 800px;
+    height: auto;
+ 
+}
+
+.image6{
+    position: relative;
+    left: 0%;
+    top: 250px;
+    width: 800px;
+    height: auto;
+  
+}
+
+.image3{
+    position: relative;
+    left: 0%;
+    top: 290px;
+    width: 800px;
+    height: auto;
+ 
+}
+
+.feedback2{
+        position: relative;
+        top: 310px; 
+}
+.image4{
+    position: relative;
+    left: 0%;
+    top: 330px;
+    width: 800px;
+    height: auto;
+ 
+}
+.image5{
+    position: relative;
+    left: 0%;
+    top: 360px;
+    width: 800px;
+    height: auto;
+ 
+}
+
+.idea{
+    position: relative;
+    top: 380px; 
+}
+
+.screen{
+    position: relative;
+}
+
+.one{
+    position: relative;
+    left: 0%;
+    top: 380px;
+    width: 800px;
+    height: auto;
+}
+.two{
+    position: relative;
+    left: 0%;
+    top: 410px;
+    width: 800px;
+    height: auto;
+}
+
+.three{
+    position: relative;
+    left: 0%;
+    top: 440px;
+    width: 800px;
+    height: auto;
+}
+
+.four{
+    position: relative;
+    left: 0%;
+    top: 480px;
+    width: 800px;
+    height: auto;
+}
+
+.final{
+    position: relative;
+    top: 520px; 
+}
+.finalposter{
+    position: relative;
+    left: 0%;
+    top: 530px;
+    width: 1000px;
+    height: auto;
+}
+
+.bonus{
+    position: relative;
+    top: 550px;
+}
+
+.hung{
+    position: relative;
+    left: 0%;
+    top: 575px;
+    width: auto;
+    height: 600px;
+}
+
+
+
