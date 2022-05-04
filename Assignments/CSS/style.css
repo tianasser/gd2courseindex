@@ -1,0 +1,120 @@
+body{
+    background: rgb(164, 164, 164);
+    width: 1200px;
+}
+
+.assign{
+    font-size: 50px;
+    text-shadow: 4px 4px 5px rgb(228, 65, 25);
+    
+}
+
+.everything {
+    width: 100%;
+    height: 100%;
+    padding:50px;
+    margin-top: -60px;
+}
+
+.assign1{
+        width: 1300px;
+        margin: 50px auto;
+        background: #ffaf90;
+        padding: 20px;
+        text-align: center;
+        font-weight: 900;
+        position:relative;
+}
+
+#head1 {
+    font-weight: bold;  
+}
+
+#aim {
+    position: relative;
+    top: 3px;
+}
+
+#image{
+    height: auto;
+    width: 950px;
+    top: 200px;
+    left: 80px;
+    z-index: 1;
+}
+
+#head2 {
+    font-weight: bold;
+    top: 450px;
+}
+
+.gifs{
+    display:inline;
+    margin-left:auto;
+    margin-right:auto;
+    width: 40%;
+}
+
+.assign2{
+        width: 1300px;
+        height: 1250px;
+        margin: 50px auto;
+        background: #fd8f64;
+        padding: 20px;
+        text-align: center;
+        font-weight: 900;
+        position:absolute;
+}
+
+.pic1{
+    position: absolute;
+    left: 10%;
+}
+
+.pic2{
+    position: absolute;
+    left: 51%;
+}
+
+.pic3{
+    position: absolute;
+    left: 10%;
+    top: 710px;
+}
+
+.pic4{
+    position: absolute;
+    left: 51%;
+    top: 710px;
+}
+
+.assign3{
+    width: 1300px;
+    height: 4850px;
+    top: 2495px;
+    margin: 50px auto;
+    background: #ff753e;
+    padding: 20px;
+    text-align: center;
+    font-weight: 900;
+    position:absolute;
+}
+
+.info{
+    display:inline;
+    margin-left:auto;
+    margin-right:auto;
+    width: 70%;
+}
+
+.page1{
+    position: absolute;
+    left: 15%;
+    top: 170px;
+}
+
+.page2{
+    position: absolute;
+    left: 15%;
+    top: 2460px; 
+}
